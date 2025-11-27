@@ -1,0 +1,969 @@
+title,body,classification,safety,toxicity,sentiment,topic,engagement
+Cute Puppy,A golden retriever playing in the park,SFW,Safe,Low,Positive,Animals,Low
+Tech Launch Event,Apple unveils new AI chip,SFW,Safe,Low,Neutral,Tech,Medium
+Healthy Smoothie Recipe,Blend fruits and nuts for energy,SFW,Safe,Low,Positive,Food,Low
+Workout Motivation,Daily home exercises for beginners,SFW,Safe,Low,Positive,Fitness,Medium
+Travel Vlog,A beautiful waterfall in Iceland,SFW,Safe,Low,Positive,Travel,Low
+Stock Market Update,Markets rise after positive GDP data,SFW,Safe,Medium,Neutral,Finance,High
+Political Rally News,Peaceful rally held in the capital,SFW,Safe,Low,Neutral,Politics,Medium
+Space Discovery,NASA finds new Earth-like planet,SFW,Safe,Low,Positive,Science,High
+Book Review,Thriller novel with great plot twists,SFW,Safe,Low,Positive,Books,Low
+Gardening Guide,How to grow tomatoes at home,SFW,Safe,Low,Positive,Gardening,Low
+Cat Compilation,Funny cats doing weird things,SFW,Safe,Low,Positive,Animals,Medium
+Cycling Tips,How to ride longer without fatigue,SFW,Safe,Low,Positive,Fitness,Low
+Software Update,New patch improves gaming performance,SFW,Safe,Low,Neutral,Tech,Medium
+Food Blog,Review of a new vegetarian restaurant,SFW,Safe,Low,Positive,Food,Medium
+Nature Documentary,Wolves hunting in snowy mountains,SFW,Safe,Low,Neutral,Nature,Medium
+Mental Health Tips,Simple breathing exercises to relax,SFW,Safe,Low,Positive,Health,Low
+Career Advice,Top tips to crack your first interview,SFW,Safe,Low,Positive,Career,High
+Educational Course,Learn basics of Python programming,SFW,Safe,Low,Positive,Education,Medium
+Art Showcase,Digital art inspired by Tokyo streets,SFW,Safe,Low,Positive,Art,Low
+Comedy Skit,Stand-up comedian jokes about daily life,SFW,Safe,Low,Positive,Entertainment,High
+Motivation Post,You are stronger than your excuses,SFW,Safe,Low,Positive,Motivation,Medium
+Eco-Friendly Tips,Reduce waste using reusable bags,SFW,Safe,Low,Positive,Environment,Low
+Auto Review,New electric car tested on highways,SFW,Safe,Low,Neutral,Automobile,Medium
+History Facts,Interesting facts about ancient Egypt,SFW,Safe,Low,Neutral,Education,Low
+Sports Update,Team wins championship after tough match,SFW,Safe,Low,Positive,Sports,High
+Cooking Show,Chef makes a spicy Indian curry,SFW,Safe,Low,Positive,Food,Medium
+Meditation Guide,Five-minute meditation for clarity,SFW,Safe,Low,Positive,Health,Low
+Business News,Startups raise funding this quarter,SFW,Safe,Medium,Neutral,Business,High
+Science Experiment,How volcano models work for students,SFW,Safe,Low,Neutral,Science,Low
+College Tips,How to manage time during exams,SFW,Safe,Low,Positive,Education,Medium
+Wildlife Photo,A deer drinking water in the forest,SFW,Safe,Low,Positive,Nature,Low
+DIY Project,Make your own wooden shelf at home,SFW,Safe,Low,Positive,DIY,Low
+Podcast Episode,Discussion about future AI trends,SFW,Safe,Low,Neutral,Tech,Medium
+Photography Tips,Shoot better images using natural light,SFW,Safe,Low,Positive,Art,Low
+Health Blog,How to improve sleep quality naturally,SFW,Safe,Low,Positive,Health,Low
+Parenting Tips,How to help kids build good habits,SFW,Safe,Low,Positive,Parenting,Low
+Food Review,Trying a new dessert cafe in town,SFW,Safe,Low,Positive,Food,Medium
+Car Maintenance,How to check engine oil at home,SFW,Safe,Low,Neutral,Automobile,Low
+Sports Training,Improve stamina for football,SFW,Safe,Low,Positive,Sports,Medium
+Finance Tips,How to save money on monthly expenses,SFW,Safe,Low,Positive,Finance,Medium
+Tech Comparison,Comparing 3 new Android phones,SFW,Safe,Low,Neutral,Tech,Medium
+Nature Vlog,Walkthrough a peaceful bamboo forest,SFW,Safe,Low,Positive,Nature,Low
+Music Album Review,Review of a new jazz album,SFW,Safe,Low,Positive,Music,Low
+Movie Discussion,Talking about the latest thriller film,SFW,Safe,Low,Neutral,Entertainment,Medium
+Festival Celebration,Diwali celebrations with lights,SFW,Safe,Low,Positive,Culture,High
+Study Hacks,How to memorize formulas faster,SFW,Safe,Low,Positive,Education,Medium
+Healthy Eating,Importance of balanced diet,SFW,Safe,Low,Positive,Health,Low
+Coding Tips,Why comments are important in code,SFW,Safe,Low,Positive,Tech,Low
+Motivational Story,Boy who became entrepreneur at 18,SFW,Safe,Low,Positive,Motivation,Medium
+
+Explicit Adult Material,Post contains adult explicit content warning,NSFW,Unsafe,High,Negative,Adult,High
+Porn Website Link,User shared a link to an 18+ content site,NSFW,Unsafe,High,Negative,Adult,High
+Graphic Nudity Warning,Contains non-blurred nudity references,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Chat Request,User asking for 18+ video chats,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Content Alert,User uploaded a file marked as adult content,NSFW,Unsafe,High,Negative,Adult,High
+NSFW Image Mention,Post talks about nude photos circulating online,NSFW,Unsafe,High,Negative,Adult,High
+Illicit Content Post,User discussing access to pornographic sites,NSFW,Unsafe,High,Negative,Adult,High
+18+ Video Mention,Mentions explicit adult videos,NSFW,Unsafe,High,Negative,Adult,Medium
+NSFW Subreddit Link,User links to adult subreddit content,NSFW,Unsafe,High,Negative,Adult,High
+Adult Photos Leak,Mentions leaked celebrity adult images,NSFW,Unsafe,High,Negative,Adult,High
+Nudity Discussion,Talking about non-censored adult photos,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Clip Warning,Describes explicit adult scenes,but non-graphic,NSFW,Unsafe,High,Negative,Adult,High
+Adult Content Rumor,Rumor about leaked 18+ content,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Story,Mentions adult experience in text form,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Uncensored Content,Talks about uncensored adult pictures,NSFW,Unsafe,High,Negative,Adult,High
+Adult Video Archive,Reference to a site storing adult clips,NSFW,Unsafe,High,Negative,Adult,High
+Adult Streaming Site,Mentions subscription to adult platform,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Scene Mention,Refers to explicit adult scene from a film,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Folder Leak,Talks about leaked adult folder from cloud,NSFW,Unsafe,High,Negative,Adult,High
+18+ Comics Reference,Notes adult-themed comics exist online,NSFW,Unsafe,Medium,Negative,Adult,Low
+Adult Community Referral,User recommends joining 18+ group,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Nude Art Debate,Discusses uncensored nude artwork online,NSFW,Unsafe,Medium,Neutral,Art,Medium
+Explicit Meme,Mentions an adult meme trending online,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Film Review,Discusses storyline of an adult-themed film,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Graphic NSFW Notes,Highlights disturbing adult references,NSFW,Unsafe,High,Negative,Adult,High
+Nudity Filter Removal,Talks about removing blur filters from images,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Audio Mention,Refers to adult audio recordings,NSFW,Unsafe,Medium,Negative,Adult,Medium
+18+ Dark Web Rumor,Mentions adult content being sold illegally,NSFW,Unsafe,High,Negative,Crime,High
+Adult Subscription Hack,People sharing premium adult access illegally,NSFW,Unsafe,High,Negative,Crime,High
+NSFW Dating App,Talks about hookup-based adult app,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Roleplay Mention,Discusses adult roleplay communities,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Story Thread,User shares adult-themed written story,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Clip Leak,Mentions leaked uncensored adult clip,NSFW,Unsafe,High,Negative,Adult,High
+Nude Gallery Mention,Talks about a public nude gallery online,NSFW,Unsafe,Medium,Negative,Adult,Medium
+P*rn Site Ranking,User ranking adult sites publicly,NSFW,Unsafe,High,Negative,Adult,High
+18+ Content Board,User asking for adult board recommendations,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Video Review,Discusses non-graphic parts of adult video,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Chat Group,Mentions joining 18+ chat group,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Nude Model Mention,Talks about an online nude model profile,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Magazine Reference,Refers to adult-themed magazine edition,NSFW,Unsafe,Medium,Neutral,Adult,Low
+NSFW Content Trade,Users trading adult files online,NSFW,Unsafe,High,Negative,Crime,High
+18+ Review Post,User reviews adult content site interface,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Game Discussion,Mentions adult-themed game online,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Movie Discussion,Refers to explicit adult elements in a film,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Forum Thread,User asking for explicit 18+ content,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Filter Bypass,Talks about bypassing adult filters,NSFW,Unsafe,High,Negative,Tech,High
+Nudity Controversy,Debate about nudity in online photos,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Photo Review,Talks about reviewing uncensored images,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Video Tagging,Discusses tagging adult clips online,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Warning,User warns others about 18+ material ahead,NSFW,Unsafe,High,Negative,Adult,Medium
+Morning Jog Tips,How to start morning jogging without fatigue,SFW,Safe,Low,Positive,Fitness,Medium
+AI Tool Review,Testing a new AI writing assistant,SFW,Safe,Low,Neutral,Tech,Medium
+Healthy Breakfast,Oats with fruits for energy,SFW,Safe,Low,Positive,Food,Low
+Wildlife Rescue,Volunteers save an injured bird,SFW,Safe,Low,Positive,Nature,High
+City Travel Guide,Top 5 places to visit this winter,SFW,Safe,Low,Positive,Travel,Low
+Laptop Comparison,Choosing between 3 new gaming laptops,SFW,Safe,Low,Neutral,Tech,Medium
+Sports Highlights,Best goals scored this week,SFW,Safe,Low,Positive,Sports,High
+Mental Strength Tips,How to stop overthinking daily,SFW,Safe,Low,Positive,Health,Medium
+Museum Tour,Tour inside the national art museum,SFW,Safe,Low,Positive,Art,Low
+Parenting Advice,How to help your child study better,SFW,Safe,Low,Positive,Parenting,Medium
+Eco Travel,Travel destinations with least pollution,SFW,Safe,Low,Positive,Environment,Low
+Finance Update,Crypto market stabilizes after dip,SFW,Safe,Medium,Neutral,Finance,High
+Study Motivation,Small habits that boost productivity,SFW,Safe,Low,Positive,Education,Medium
+Gaming Review,Review of a new action-adventure game,SFW,Safe,Low,Neutral,Gaming,Medium
+Fitness Routine,Quick 15-minute home workout,SFW,Safe,Low,Positive,Fitness,Medium
+Cooking Tutorial,How to make grilled chicken at home,SFW,Safe,Low,Positive,Food,Low
+Online Learning,Best websites to learn coding for free,SFW,Safe,Low,Positive,Education,High
+Car Review,Electric SUV performance tested,SFW,Safe,Low,Neutral,Automobile,Medium
+Positive Quotes,Small steps daily create big success,SFW,Safe,Low,Positive,Motivation,Medium
+Weather Update,Heavy rain expected tomorrow,SFW,Safe,Low,Neutral,News,High
+City Photography,Street photography in New York,SFW,Safe,Low,Positive,Art,Low
+Healthy Living,Why drinking water after waking up helps,SFW,Safe,Low,Positive,Health,Low
+Pet Care Tips,How to keep your dog’s coat shiny,SFW,Safe,Low,Positive,Animals,Low
+Festival Vlog,Highlights of Holi celebrations,SFW,Safe,Low,Positive,Culture,High
+Travel Food,Trying local street food in Thailand,SFW,Safe,Low,Positive,Food,Medium
+Tech News,New foldable smartphone leaks,SFW,Safe,Low,Neutral,Tech,High
+Home Decor Ideas,Decorate your room with low budget,SFW,Safe,Low,Positive,DIY,Medium
+Science News,Robotic arm performs surgery simulation,SFW,Safe,Low,Neutral,Science,High
+Movie Review,Review of a newly released comedy film,SFW,Safe,Low,Positive,Entertainment,Medium
+Startup Tips,How to validate your business idea,SFW,Safe,Low,Positive,Business,Medium
+Sports Gear Review,Testing new running shoes,SFW,Safe,Low,Positive,Sports,Medium
+Motivation Tips,Discipline works when motivation fails,SFW,Safe,Low,Positive,Motivation,Medium
+Travel Story,A solo trip across Europe,SFW,Safe,Low,Positive,Travel,Low
+Coding Guide,Explain async functions in JavaScript,SFW,Safe,Low,Neutral,Tech,Medium
+Photography Setup,Beginner’s guide to lighting setups,SFW,Safe,Low,Positive,Art,Low
+History Notes,Ancient Greek inventions explained,SFW,Safe,Low,Neutral,Education,Low
+Animal Facts,Interesting facts about elephants,SFW,Safe,Low,Positive,Animals,Low
+Cooking Tips,How to avoid burning onions,SFW,Safe,Low,Positive,Food,Low
+Financial Planning,How to make a monthly budget,SFW,Safe,Low,Positive,Finance,Medium
+Office Productivity,Apps to improve workplace focus,SFW,Safe,Low,Positive,Business,Medium
+Gadget Tips,Extend your phone battery life,SFW,Safe,Low,Neutral,Tech,Medium
+Workout Guide,Best leg exercises for strength,SFW,Safe,Low,Positive,Fitness,Medium
+Travel Budgeting,How to travel with low expenses,SFW,Safe,Low,Positive,Travel,Medium
+Music Tips,How to improve singing voice,SFW,Safe,Low,Positive,Music,Low
+Health Research,New study shows benefits of walking,SFW,Safe,Low,Neutral,Health,High
+Science Facts,Why eclipses occur explained,SFW,Safe,Low,Neutral,Science,Low
+Coding Practices,Why indentation matters in Python,SFW,Safe,Low,Positive,Tech,Low
+Study Tips,How to revise more effectively,SFW,Safe,Low,Positive,Education,Medium
+Holiday Guide,Best winter destinations to visit,SFW,Safe,Low,Positive,Travel,Low
+
+Explicit Warning Post,This post discusses adult-only material ahead,NSFW,Unsafe,High,Negative,Adult,High
+Adult Link Mention,Mentions access to an adult-only platform,NSFW,Unsafe,High,Negative,Adult,High
+Nudity Alert,Describes presence of non-censored nudity,NSFW,Unsafe,High,Negative,Adult,Medium
+NSFW Forum Mention,User mentions an 18+ online forum,NSFW,Unsafe,High,Negative,Adult,High
+Adult Clips Info,Mentions availability of explicit 18+ clips,NSFW,Unsafe,High,Negative,Adult,High
+NSFW Category Discussion,Talks about adult category pages online,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Nude Photo Mentions,Refers to uncensored leaked images,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Warning Text,Discusses adult content warnings,NSFW,Unsafe,Medium,Negative,Adult,Medium
+18+ Site Review,User reviews an adult content website,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Group Mention,Mentions a popular 18+ social group,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Image Debate,Discusses controversy over adult images,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Access Tips,User explaining how to access adult sites,NSFW,Unsafe,High,Negative,Tech,High
+Adult Clip Sharing,Mentions people sharing 18+ clips,NSFW,Unsafe,High,Negative,Crime,High
+Adult Subscription Info,Talks about adult subscription plans,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Nude Artwork Reference,Discusses non-censored nude art online,NSFW,Unsafe,Medium,Neutral,Art,Medium
+Explicit File Mention,User talks about adult-only files,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Live Stream,Refers to an 18+ live stream platform,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Leak Report,Claims that adult content was leaked,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Archive Link,Reference to adult clip archive,NSFW,Unsafe,High,Negative,Adult,High
+Adult Board Request,User asks for 18+ board suggestions,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Nudity News,Discusses online nudity controversy,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Blog Mention,Mentions adult-only blog topics,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Video Library,Talks about 18+ video categories,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Search Query,User asking how to find adult content,NSFW,Unsafe,High,Negative,Tech,High
+18+ Rumor Thread,Rumors about adult content leaks,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult-Themed Chat,User mentions adult roleplay chat,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Meme Thread,Mentions trending adult meme,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Content Poll,User asks which adult site is popular,NSFW,Unsafe,High,Negative,Adult,High
+Nude Model Reference,Mentions online model’s uncensored gallery,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+18+ Review Thread,Discusses adult content experiences,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Index List,User shares list of adult pages,NSFW,Unsafe,High,Negative,Adult,High
+Adult Fan Page,Mentions fan page with adult themes,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Artwork Mention,Talks about explicit adult art themes,NSFW,Unsafe,Medium,Neutral,Art,Low
+NSFW Viewer Guide,Explains how adult filters work,NSFW,Unsafe,Medium,Neutral,Tech,Medium
+Adult Video Info,Discusses category of adult videos,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Account Leak,Claims adult account data leaked,NSFW,Unsafe,High,Negative,Crime,High
+Nudity Regulation Talk,Talks about rules for online nudity,NSFW,Unsafe,Medium,Neutral,Politics,Medium
+Adult Forum Review,Reviews 18+ discussion forums,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Magazine Info,Refers to adult-themed magazine topics,NSFW,Unsafe,Medium,Neutral,Adult,Low
+NSFW Channel Mention,Mentions an adult broadcast channel,NSFW,Unsafe,Medium,Negative,Adult,Medium
+18+ Content Tips,User suggests where adult content is found,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Story Review,Discusses adult-themed written story,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Query,Mentions request for adult-only materials,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Roleplay Info,Talks about adult roleplay groups,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Nude Gallery Sharing,Users share online nude galleries,NSFW,Unsafe,High,Negative,Crime,High
+Adult Chat Invite,Invite link to adult chat group,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Profile Mention,User mentions explicit profiles online,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Disclaimer,Mentions adult warning ahead,NSFW,Unsafe,High,Negative,Adult,Medium
+Morning Yoga Guide,Beginner yoga stretches for flexibility,SFW,Safe,Low,Positive,Health,Low
+Tech Update,New AI framework released for developers,SFW,Safe,Low,Neutral,Tech,High
+Study Routine,How to make a weekly study schedule,SFW,Safe,Low,Positive,Education,Medium
+Nature Hike,Vlog of a peaceful mountain hike,SFW,Safe,Low,Positive,Nature,Low
+Healthy Lunch Ideas,Quick salads to make during work breaks,SFW,Safe,Low,Positive,Food,Low
+Electric Bike Review,Testing new e-bike mileage,SFW,Safe,Low,Neutral,Automobile,Medium
+Pet Training Tips,How to train your dog to follow commands,SFW,Safe,Low,Positive,Animals,Low
+Productivity Advice,Why multitasking lowers efficiency,SFW,Safe,Low,Neutral,Business,Medium
+City Sunset Photography,Gorgeous sunset sky captured in city,SFW,Safe,Low,Positive,Art,Low
+Documentary Summary,Summary of a wildlife documentary,SFW,Safe,Low,Neutral,Education,Low
+Motivational Tips,Why failure leads to growth,SFW,Safe,Low,Positive,Motivation,High
+Travel Packing Guide,Essentials for international travel,SFW,Safe,Low,Positive,Travel,Medium
+Healthy Skin Tips,How drinking water improves skin,SFW,Safe,Low,Positive,Health,Low
+Space Facts,Interesting info about black holes,SFW,Safe,Low,Neutral,Science,Medium
+Weekly News,Breakdown of top global headlines,SFW,Safe,Medium,Neutral,News,High
+Coding Roadmap,Path to becoming a backend developer,SFW,Safe,Low,Positive,Tech,High
+Gym Mistakes,Common mistakes beginners make in gym,SFW,Safe,Low,Positive,Fitness,Medium
+Plant Care Tips,How to stop overwatering plants,SFW,Safe,Low,Positive,Gardening,Low
+Book Summary,Short summary of a self-help book,SFW,Safe,Low,Positive,Books,Low
+Healthy Snacks,Easy homemade snack recipes,SFW,Safe,Low,Positive,Food,Low
+Student Life Tips,How to balance studies and hobbies,SFW,Safe,Low,Positive,Education,Medium
+Kids Learning Apps,Review of top learning apps for kids,SFW,Safe,Low,Positive,Education,Low
+Street Food Tour,Trying street food in Mumbai,SFW,Safe,Low,Positive,Travel,Medium
+Office Tips,How to manage time at work,SFW,Safe,Low,Positive,Business,Medium
+Fitness Transformation,Journey from unfit to fit,SFW,Safe,Low,Positive,Fitness,High
+Travel Photography,Best camera settings for travel shots,SFW,Safe,Low,Positive,Art,Low
+Study Tool Review,Review of a student planner app,SFW,Safe,Low,Neutral,Education,Medium
+Mental Clarity,How journaling reduces stress,SFW,Safe,Low,Positive,Health,Low
+Electric Car Update,New EV charging stations launched,SFW,Safe,Low,Neutral,Automobile,High
+Coding Bug Fix,How to fix a common Python error,SFW,Safe,Low,Neutral,Tech,Low
+Healthy Lifestyle,Simple tips to boost immunity,SFW,Safe,Low,Positive,Health,Low
+Game Launch,Gaming company releases new battle royale,SFW,Safe,Low,Neutral,Gaming,High
+Motivation Post,Success requires daily discipline,SFW,Safe,Low,Positive,Motivation,Medium
+Science Quiz Facts,Interesting quiz questions for students,SFW,Safe,Low,Positive,Education,Low
+Car Maintenance Guide,Why tire pressure check is important,SFW,Safe,Low,Neutral,Automobile,Low
+Cooking Lesson,How to make perfect boiled eggs,SFW,Safe,Low,Positive,Food,Low
+Nature Clip,A calming river sound video,SFW,Safe,Low,Positive,Nature,Low
+Meditation Lesson,Why meditation reduces anxiety,SFW,Safe,Low,Positive,Health,Low
+Online Business Tips,How to start small online store,SFW,Safe,Low,Positive,Business,High
+Sports Fitness Tips,How to improve cardio in football,SFW,Safe,Low,Positive,Sports,Medium
+Art Tips,How to draw using simple shapes,SFW,Safe,Low,Positive,Art,Low
+Music Guide,How to write your first song,SFW,Safe,Low,Positive,Music,Low
+Career Growth Tips,Build a strong resume,SFW,Safe,Low,Positive,Career,Medium
+Nature Article,Rare bird species spotted in forest,SFW,Safe,Low,Positive,Nature,Low
+Travel Review,Review of budget hotels in Bali,SFW,Safe,Low,Positive,Travel,Medium
+DIY Craft Ideas,Create room decor using waste items,SFW,Safe,Low,Positive,DIY,Low
+Self Improvement,Why habits matter more than goals,SFW,Safe,Low,Positive,Motivation,Medium
+Study Strategy,How to score high in exams,SFW,Safe,Low,Positive,Education,High
+Cooking Guide,Recipe for creamy pasta,SFW,Safe,Low,Positive,Food,Medium
+
+NSFW Alert Post,Mentions adult-only material link ahead,NSFW,Unsafe,High,Negative,Adult,High
+Adult Clip Info,Talks about availability of 18+ clips,NSFW,Unsafe,High,Negative,Adult,High
+NSFW Site Mention,Refers to a popular 18+ website,NSFW,Unsafe,High,Negative,Adult,High
+Nudity Statement,Claims uncensored images are circulating,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Group Link,Mentions link to an adult discussion group,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Rumor Thread,Rumors about adult content leak,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Audio Info,Mentions adult-only audio files,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Nude Art Talk,Discusses uncensored nude art controversy,NSFW,Unsafe,Medium,Neutral,Art,Medium
+Adult Membership Talk,Discusses cost of adult memberships,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Category Info,Talks about popular adult categories,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+18+ Broadcast Mention,Mentions an adult broadcast channel,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW File Leak,Discusses leaked adult-only files,NSFW,Unsafe,High,Negative,Crime,High
+Adult Content Review,User reviewing an adult platform,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Forum Guide,Explains how adult forums work,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Nude Gallery Info,Talks about online nude galleries,NSFW,Unsafe,High,Negative,Adult,High
+Adult Question Thread,User asks about adult content access,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Meme Mention,Mentions adult humor memes,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Collection Talk,Talks about adult content collections,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Video Reference,Discusses themes of adult videos,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Photo Debate,Debate over adult images on social media,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Review Thread,People reviewing adult experiences,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit App Mention,Mentions an adult application,NSFW,Unsafe,Medium,Neutral,Tech,Medium
+18+ Tips Thread,User shares tips for accessing adult platforms,NSFW,Unsafe,High,Negative,Adult,High
+NSFW Content Post,Mentions explicit content warnings,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult-Themed Thread,Talks about adult-themed communities,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Forum List,Lists multiple adult sites,NSFW,Unsafe,High,Negative,Adult,High
+Adult Chat Talk,Discusses adult chat rooms,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Art Debate,Talks about adult themes in artwork,NSFW,Unsafe,Medium,Neutral,Art,Medium
+Nudity Case Study,Discusses controversy over nudity,SFW,Unsafe,Medium,Neutral,Politics,Medium
+Adult Clip Board,Talks about board sharing adult clips,NSFW,Unsafe,High,Negative,Crime,High
+Explicit Site Review,Reviews popular adult sites,NSFW,Unsafe,High,Negative,Adult,Medium
+18+ Stream Info,Mentions an adult live stream page,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Database Leak,Claims adult data leaked,NSFW,Unsafe,High,Negative,Crime,High
+Explicit Repost Talk,Talks about reposting adult files,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Story Link,Mentions adult-themed story links,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Nude Model Talk,Talks about online models with adult content,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Topic Thread,User asks about adult topics openly,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Sharing Post,Users talk about exchanging adult content,NSFW,Unsafe,High,Negative,Crime,High
+NSFW Trend Alert,Talks about trending adult topics,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Filter Talk,Discusses adult filter restrictions,NSFW,Unsafe,Medium,Neutral,Tech,Medium
+Adult Advice Thread,People asking questions about adult content,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Nudity Reference,Mentions uncensored nudity online,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Clip Info,Mentions non-graphic adult clips,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Fan Forum,Mentions fan forum for adult content,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Warning Message,Warning about 18+ material ahead,NSFW,Unsafe,High,Negative,Adult,Medium
+Morning Fitness Routine,Start your day with a 10-minute warmup,SFW,Safe,Low,Positive,Fitness,Medium
+AI News Update,New AI model beats all benchmarks,SFW,Safe,Low,Neutral,Tech,High
+Healthy Diet Tips,Why proteins matter in daily diet,SFW,Safe,Low,Positive,Food,Low
+Nature Park Visit,A visit to a peaceful green park,SFW,Safe,Low,Positive,Nature,Low
+Car Mileage Test,Testing mileage of a new sedan,SFW,Safe,Low,Neutral,Automobile,Medium
+Study Roadmap,How to study effectively for exams,SFW,Safe,Low,Positive,Education,Medium
+Travel Food Vlog,Trying street food in Japan,SFW,Safe,Low,Positive,Travel,Medium
+Motivational Story,Student becomes coder at 16,SFW,Safe,Low,Positive,Motivation,Medium
+Wildlife Footage,Birds flying across a valley,SFW,Safe,Low,Positive,Nature,Low
+Healthy Living,Importance of morning sunlight,SFW,Safe,Low,Positive,Health,Medium
+Coding Tutorial,Loops explained in simple steps,SFW,Safe,Low,Neutral,Tech,Medium
+City Travel Guide,What to do in Dubai for 3 days,SFW,Safe,Low,Positive,Travel,Low
+Mental Wellness,Why sleep matters more than diet,SFW,Safe,Low,Positive,Health,Low
+Productivity Tips,3 habits to reduce procrastination,SFW,Safe,Low,Positive,Business,Medium
+Food Review,Trying a new Korean bbq restaurant,SFW,Safe,Low,Positive,Food,High
+Science Discovery,New element discovered in lab,SFW,Safe,Low,Neutral,Science,Medium
+Parenting Tips,How to teach kids creative thinking,SFW,Safe,Low,Positive,Parenting,Low
+Photography Lesson,How to shoot great portraits,SFW,Safe,Low,Positive,Art,Low
+Sports Update,Team wins last-minute match,SFW,Safe,Low,Positive,Sports,High
+Office Hacks,How to handle deadlines easily,SFW,Safe,Low,Neutral,Business,Medium
+Nature Walk Guide,5 trails to explore near your city,SFW,Safe,Low,Positive,Nature,Low
+Study Tips,Why spaced repetition works,SFW,Safe,Low,Positive,Education,Medium
+Music Review,New pop album gets global attention,SFW,Safe,Low,Positive,Music,Medium
+Fitness Transformation,Guy loses 15kg in 6 months,SFW,Safe,Low,Positive,Fitness,High
+Coding Basics,What are variables and data types,SFW,Safe,Low,Neutral,Tech,Low
+Healthy Cooking,Why olive oil is better,SFW,Safe,Low,Positive,Food,Low
+Tech Comparison,Comparing 5G phones,SFW,Safe,Low,Neutral,Tech,Medium
+Travel Planning,How to travel Europe cheaply,SFW,Safe,Low,Positive,Travel,Medium
+Home Workout,Quick leg workout routine,SFW,Safe,Low,Positive,Fitness,Medium
+Science Facts,What are meteor showers,SFW,Safe,Low,Neutral,Science,Low
+Motivation Quote,Work harder than your excuses,SFW,Safe,Low,Positive,Motivation,Medium
+Kids Learning,New learning game for toddlers,SFW,Safe,Low,Positive,Education,Low
+Movie Review,New thriller movie breaks records,SFW,Safe,Low,Neutral,Entertainment,High
+Plant Care,How to grow indoor plants,SFW,Safe,Low,Positive,Gardening,Low
+Health Tips,Why hydration is important,SFW,Safe,Low,Positive,Health,Low
+Art Guide,How to draw faces,SFW,Safe,Low,Positive,Art,Low
+Career Growth,How to make your resume stand out,SFW,Safe,Low,Positive,Career,Medium
+Daily Productivity,Why morning routines help,SFW,Safe,Low,Positive,Business,Medium
+Sports Training,Improve your stamina,SFW,Safe,Low,Positive,Sports,Medium
+Travel Diary,My solo trip to Europe,SFW,Safe,Low,Positive,Travel,Low
+Music Guide,How to learn guitar basics,SFW,Safe,Low,Positive,Music,Low
+Study Focus Tips,Remove distractions effectively,SFW,Safe,Low,Positive,Education,Medium
+Healthy Eating,Benefits of green vegetables,SFW,Safe,Low,Positive,Food,Low
+Budget Tips,How to manage your finances,SFW,Safe,Low,Positive,Finance,Medium
+Nature Clip,Beautiful waterfall footage,SFW,Safe,Low,Positive,Nature,Low
+Car Review,Testing acceleration of a new EV,SFW,Safe,Low,Neutral,Automobile,Medium
+Coding Errors,Fix indentation errors easily,SFW,Safe,Low,Neutral,Tech,Low
+History Notes,Rise of ancient civilizations,SFW,Safe,Low,Neutral,Education,Low
+Sports Gear Review,Reviewing new cricket bats,SFW,Safe,Low,Positive,Sports,Medium
+NSFW Alert Post,Mentions access to adult-only content,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Image Mention,Mentions leaked adult pictures,NSFW,Unsafe,High,Negative,Adult,High
+Adult Site Discussion,User discussing 18+ platforms,NSFW,Unsafe,High,Negative,Adult,Medium
+18+ Content Warning,Explicit adult topics mentioned,NSFW,Unsafe,High,Negative,Adult,High
+NSFW Topic Thread,Mentions non-censored content,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Chat Mention,Talks about joining adult chatrooms,NSFW,Unsafe,High,Negative,Adult,Medium
+Nude Art Mention,Discusses nude digital artwork,NSFW,Unsafe,Medium,Neutral,Art,Medium
+NSFW Forum List,User listing multiple 18+ forums,NSFW,Unsafe,High,Negative,Adult,High
+Adult Subscription Talk,Talks about paid adult content,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Story Mention,User mentions adult-themed stories,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Clip Reference,Talks about explicit clips online,NSFW,Unsafe,High,Negative,Adult,High
+NSFW Archive Access,Mentions 18+ clip archives,NSFW,Unsafe,High,Negative,Adult,High
+Nudity Leak Rumor,Rumors about uncensored images,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Video Categories,Discusses categories in adult content,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Thread,Mentions adult topics openly,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Experience Talk,Users discussing adult experiences,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Magazine Mention,Mentions adult edition magazine,NSFW,Unsafe,Medium,Neutral,Adult,Low
+Explicit Meme Trend,Adult meme trending online,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Group Link,Link to adult group mentioned,NSFW,Unsafe,High,Negative,Adult,High
+Adult Clip Leak,Talks about leaked explicit clips,NSFW,Unsafe,High,Negative,Adult,High
+18+ Forum Review,Discusses adult forums,SFW,Unsafe,Medium,Neutral,Adult,Medium
+Nudity Debate,Mentions online nudity debate,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Filter Bypass,Talks about bypassing adult filters,NSFW,Unsafe,High,Negative,Tech,High
+Explicit Content Tip,User asking how to find adult content,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Platform Review,Reviews adult streaming platform,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Data Leak,Claims adult data leaked,NSFW,Unsafe,High,Negative,Crime,High
+Explicit Story Thread,Users share adult story posts,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Nude Gallery Info,Talks about adult image galleries,NSFW,Unsafe,High,Negative,Adult,High
+Adult Discussion Board,Mentions 18+ community boards,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Board List,Lists multiple adult boards,NSFW,Unsafe,High,Negative,Adult,High
+Healthy Breakfast Ideas,Try oats with fruits for long-lasting energy,SFW,Safe,Low,Positive,Food,Low
+Tech Tutorial,How neural networks work explained simply,SFW,Safe,Low,Neutral,Tech,High
+Walking Tips,Why walking 8k steps improves mood,SFW,Safe,Low,Positive,Health,Low
+Travel Review,Best beaches to visit in Sri Lanka,SFW,Safe,Low,Positive,Travel,Medium
+Fitness Tips,How to avoid injuries while lifting,SFW,Safe,Low,Positive,Fitness,Medium
+Study Hacks,How to study for long hours without burnout,SFW,Safe,Low,Positive,Education,Medium
+Plant Knowledge,Why succulents need less water,SFW,Safe,Low,Positive,Gardening,Low
+Wildlife Info,Facts about rare mountain goats,SFW,Safe,Low,Positive,Nature,Low
+Motivation Speech,You become what you repeatedly do,SFW,Safe,Low,Positive,Motivation,High
+Coding Practice,Best sites to practice C++ coding,SFW,Safe,Low,Positive,Tech,Medium
+Healthy Mindset,Why gratitude improves mental health,SFW,Safe,Low,Positive,Health,Low
+Photography Tips,How to capture long exposure shots,SFW,Safe,Low,Positive,Art,Low
+Sports Analysis,Why teamwork matters in football,SFW,Safe,Low,Positive,Sports,High
+Office Skills,How to communicate clearly at work,SFW,Safe,Low,Positive,Business,Medium
+Travel Budget Tips,How to travel on a tight budget,SFW,Safe,Low,Positive,Travel,Low
+Cooking Tips,How to bake cookies perfectly every time,SFW,Safe,Low,Positive,Food,Medium
+Music Knowledge,Why rhythm is important in songs,SFW,Safe,Low,Positive,Music,Low
+Career Tips,How to crack your first job interview,SFW,Safe,Low,Positive,Career,Medium
+Science Info,How does the human brain store memory?,SFW,Safe,Low,Neutral,Science,Low
+Fitness Routine,Beginner-friendly ab workout,SFW,Safe,Low,Positive,Fitness,Medium
+Tech News,New robotics company enters the market,SFW,Safe,Low,Neutral,Tech,High
+Healthy Choices,Why green tea boosts metabolism,SFW,Safe,Low,Positive,Food,Medium
+Study Planning,Create a timetable for exams,SFW,Safe,Low,Positive,Education,Medium
+Nature Facts,Why oceans glow at night,SFW,Safe,Low,Positive,Nature,Low
+Parenting Guide,Getting kids interested in reading,SFW,Safe,Low,Positive,Parenting,Low
+City Vlog,A night walk across New Delhi,SFW,Safe,Low,Positive,Travel,Medium
+Gaming Update,New update released for battle royale game,SFW,Safe,Low,Neutral,Gaming,High
+History Article,How the Roman empire expanded,SFW,Safe,Low,Neutral,Education,Low
+Business Skills,How to improve negotiation skills,SFW,Safe,Low,Positive,Business,Medium
+Cooking Guide,Easy 10-minute breakfast ideas,SFW,Safe,Low,Positive,Food,Low
+Science Quiz,5 simple quiz questions for kids,SFW,Safe,Low,Positive,Education,Low
+Sports Facts,Fastest runners in Olympic history,SFW,Safe,Low,Positive,Sports,Medium
+Meditation Guide,How deep breathing improves life,SFW,Safe,Low,Positive,Health,Low
+Tech Review,Reviewing the latest flagship phone,SFW,Safe,Low,Neutral,Tech,High
+Home Organizing Tips,How to keep your room clean everyday,SFW,Safe,Low,Positive,DIY,Low
+Movie Breakdown,Explaining the ending of a popular movie,SFW,Safe,Low,Neutral,Entertainment,Medium
+Fitness Motivation,Daily consistency beats perfection,SFW,Safe,Low,Positive,Fitness,Medium
+Science Concept,Understanding gravity easily,SFW,Safe,Low,Neutral,Science,Low
+Auto News,New bike model launches next week,SFW,Safe,Low,Neutral,Automobile,Medium
+Coding Logic,How “if-else” works explained,SFW,Safe,Low,Neutral,Tech,Low
+Travel Story,Backpacking through the Himalayas,SFW,Safe,Low,Positive,Travel,Medium
+Art Tutorial,Drawing with charcoal basics,SFW,Safe,Low,Positive,Art,Low
+Healthy Drinks,Lemon water benefits explained,SFW,Safe,Low,Positive,Health,Low
+Work from Home Tips,How to remain productive at home,SFW,Safe,Low,Positive,Business,Medium
+Sports Strategy,How to defend like a pro in football,SFW,Safe,Low,Positive,Sports,Medium
+Nature Exploration,Exploring a dense rainforest,SFW,Safe,Low,Positive,Nature,Low
+Career Planning,Choosing the right career path,SFW,Safe,Low,Positive,Career,Medium
+Daily Learning,Learn one new word everyday,SFW,Safe,Low,Positive,Education,Low
+Productivity Notes,How to build momentum daily,SFW,Safe,Low,Positive,Motivation,Medium
+Music Lesson,How chords work in songs,SFW,Safe,Low,Positive,Music,Low
+NSFW Alert Thread,User mentions adult-only warning,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Clip Talk,Mentions availability of explicit clips online,NSFW,Unsafe,High,Negative,Adult,High
+18+ Image Leak,Mentions leaked non-censored images,NSFW,Unsafe,High,Negative,Adult,High
+Adult Group Mention,Mentions joining an adult community,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Content Guide,User explains how to reach adult content,NSFW,Unsafe,High,Negative,Tech,High
+Nude Art Debate,Discusses uncensored nude artworks,NSFW,Unsafe,Medium,Neutral,Art,Medium
+Explicit Meme Mention,Adult meme trending on internet,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Subscription List,Lists adult site subscription prices,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Site Review,Reviews a popular 18+ website,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Story Thread,Users post adult-themed stories,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Forum Access,Mentions how to access adult forums,NSFW,Unsafe,High,Negative,Adult,High
+Nudity Case Report,Discussion about nudity online,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Archive Leak,Claims adult-only archive leaked,NSFW,Unsafe,High,Negative,Crime,High
+Adult Platform Tips,User suggests adult content tips,NSFW,Unsafe,High,Negative,Adult,Medium
+NSFW Topic List,Lists adult topics discussed online,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Content Fanpage,Mentions fanpage dedicated to adult content,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Photo Mention,Mentions non-censored photos,NSFW,Unsafe,High,Negative,Adult,High
+NSFW Clip Search,User searching for explicit clips,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Data Leak,Claims adult user data leaked,NSFW,Unsafe,High,Negative,Crime,High
+Explicit Group Chat,Mentions adult chat groups,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Tips Thread,Discusses tips for accessing 18+ websites,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Magazine Review,Reviews adult magazine content,NSFW,Unsafe,Medium,Negative,Adult,Low
+NSFW Forum Warning,Mentions warning about adult threads,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Meme Thread,Mentions adult humor memes,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Video Categories,Discusses categories of adult videos,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Feature Review,Discusses features of adult websites,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Scene Talk,Talks about adult scenes in movies,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Nude Model Link,Mentions online model with explicit content,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Board Talk,Mentions an 18+ discussion board,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Content Post,Post discussing explicit material exists,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Resource List,Listing adult content sources,NSFW,Unsafe,High,Negative,Adult,High
+18+ Discussion Thread,People discussing adult topics,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Clip Mention,Mentions adult-only video links exist,NSFW,Unsafe,High,Negative,Adult,High
+Adult Gallery Reference,Talks about adult galleries online,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Warning Message,Mentions adult warning and caution,NSFW,Unsafe,High,Negative,Adult,Medium
+NSFW Tips Guide,User shares adult content tips,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Roleplay Mention,Talks about adult roleplay communities,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Profile Reference,Mentions explicit adult profiles exist,NSFW,Unsafe,Medium,Negative,Adult,Medium
+18+ Trend Alert,Adult content trending on social media,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Photo Sharing,Users sharing non-censored images,NSFW,Unsafe,High,Negative,Crime,High
+Adult Video Forum,Mentions forum for adult clips,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Access Tips,User explains steps to access adult sites,NSFW,Unsafe,High,Negative,Tech,High
+Explicit Leak Info,Mentions leaked explicit materials,NSFW,Unsafe,High,Negative,Adult,High
+Adult Chat Invite,Invite to join an adult chatroom,NSFW,Unsafe,High,Negative,Adult,Medium
+18+ Article Review,Discusses adult content articles,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Art Talk,Talks about adult art themes,NSFW,Unsafe,Medium,Neutral,Art,Medium
+NSFW Community Link,Mentions link to adult communities,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult User Review,User reviews adult content site,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Topic Discussion,Talks about adult topics openly,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Thread Discussion,Users discussing explicit materials,NSFW,Unsafe,High,Negative,Adult,Medium
+Morning Run Motivation,Start your day with a refreshing jog,SFW,Safe,Low,Positive,Fitness,Medium
+Laptop Buyer Guide,How to choose the right laptop for college,SFW,Safe,Low,Neutral,Tech,Medium
+Healthy Meal Prep,Prepare meals on Sunday for whole week,SFW,Safe,Low,Positive,Food,Low
+Beach Travel Review,Spent a peaceful day at Maldives beach,SFW,Safe,Low,Positive,Travel,Medium
+Study Productivity,Best study routines for college students,SFW,Safe,Low,Positive,Education,Medium
+Plant Potting Tips,How to repot your plants without damage,SFW,Safe,Low,Positive,Gardening,Low
+Sports Recap,Highlights of yesterday’s match,SFW,Safe,Low,Positive,Sports,High
+Mindfulness Guide,Practice mindfulness for 10 minutes,SFW,Safe,Low,Positive,Health,Low
+Art Challenge,Drawing challenge for beginners,SFW,Safe,Low,Positive,Art,Low
+Coding Roadmap,Learn full-stack development in steps,SFW,Safe,Low,Neutral,Tech,High
+Financial Planning,How to save ₹5000 monthly,SFW,Safe,Low,Positive,Finance,Medium
+Travel Hacks,Pack your bags smartly with these tips,SFW,Safe,Low,Positive,Travel,Medium
+Kids Education,New educational cartoons for toddlers,SFW,Safe,Low,Positive,Education,Low
+Nature Photo,Fog covering mountains in the morning,SFW,Safe,Low,Positive,Nature,Low
+Healthy Hydration,Why your body needs more water,SFW,Safe,Low,Positive,Health,Low
+Business Tips,How to build a personal brand,SFW,Safe,Low,Positive,Business,Medium
+Cooking Shortcut,Quick tomato gravy recipe,SFW,Safe,Low,Positive,Food,Low
+Gaming Tricks,How to aim better in FPS games,SFW,Safe,Low,Positive,Gaming,Medium
+Study Apps,Best apps to take notes,SFW,Safe,Low,Positive,Education,Medium
+Fitness Guide,Full body workout plan for beginners,SFW,Safe,Low,Positive,Fitness,Medium
+Music Breakdown,How beats and melody work together,SFW,Safe,Low,Positive,Music,Low
+Career Roadmap,How to become a data analyst,SFW,Safe,Low,Positive,Career,Medium
+Street Photography,Capturing daily life in busy cities,SFW,Safe,Low,Positive,Art,Low
+Daily Routine Tips,Why small habits change your life,SFW,Safe,Low,Positive,Motivation,Medium
+Wildlife Moment,A baby deer learning to walk,SFW,Safe,Low,Positive,Nature,Low
+Tech Tips,How to extend laptop battery life,SFW,Safe,Low,Neutral,Tech,Low
+Healthy Snacks,Snack ideas for busy people,SFW,Safe,Low,Positive,Food,Low
+Science Story,How rainbows are formed,SFW,Safe,Low,Neutral,Science,Medium
+Movie Critique,Why the new thriller movie is popular,SFW,Safe,Low,Neutral,Entertainment,Medium
+Travel Review,Review of a heritage hotel,SFW,Safe,Low,Positive,Travel,Medium
+Study Concepts,What is binary search explained simply,SFW,Safe,Low,Neutral,Education,Medium
+Sports Training Tips,Steps to improve football dribbling,SFW,Safe,Low,Positive,Sports,Medium
+Meditation Benefits,Why meditation helps mental clarity,SFW,Safe,Low,Positive,Health,Low
+Coding Tips,Common mistakes new programmers make,SFW,Safe,Low,Neutral,Tech,Low
+Parental Advice,How to reduce screen time for kids,SFW,Safe,Low,Positive,Parenting,Low
+History Lesson,Great inventions from ancient China,SFW,Safe,Low,Neutral,Education,Low
+Fitness Meal,High protein meals for muscle gain,SFW,Safe,Low,Positive,Food,Medium
+Art Session,How to sketch human hands,SFW,Safe,Low,Positive,Art,Low
+Nature Vlog,Exploring a bamboo forest trail,SFW,Safe,Low,Positive,Nature,Low
+Music Notes,How harmony works in music,SFW,Safe,Low,Positive,Music,Low
+Study Guide,How to take better notes,SFW,Safe,Low,Positive,Education,Medium
+Healthy Routine,How to sleep earlier daily,SFW,Safe,Low,Positive,Health,Low
+Laptop Review,Review of a mid-range gaming laptop,SFW,Safe,Low,Neutral,Tech,Medium
+Food Hacks,5 quick breakfast hacks,SFW,Safe,Low,Positive,Food,Low
+Career Tips,How to choose a college major,SFW,Safe,Low,Positive,Career,Medium
+Daily Motivation,Today is a good day to start,SFW,Safe,Low,Positive,Motivation,Medium
+Cooking Recipe,How to make homemade noodles,SFW,Safe,Low,Positive,Food,Low
+Office Routine,How to focus better at the workplace,SFW,Safe,Low,Positive,Business,Medium
+Movie Review,Classic movie review: timeless masterpiece,SFW,Safe,Low,Neutral,Entertainment,Low
+NSFW Warning Alert,Mentions adult-only warning ahead,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Clip Info,Talks about non-censored adult clips,NSFW,Unsafe,High,Negative,Adult,High
+Adult Chat Room,Mentions joining an adult chat server,NSFW,Unsafe,High,Negative,Adult,Medium
+NSFW Subscription Talk,Discusses paid adult subscriptions,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Nude Photo Mention,Mentions leaked nude images online,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Warning Thread,User warns about explicit content,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Story Reference,Discusses adult-themed text stories,NSFW,Unsafe,Medium,Negative,Adult,Medium
+18+ Forum Access,Mentions access to 18+ communities,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Topic Guide,Tutorial on how to navigate adult forums,NSFW,Unsafe,High,Negative,Tech,High
+Explicit Image Leak,Claims adult images leaked publicly,NSFW,Unsafe,High,Negative,Crime,High
+NSFW Gallery Mention,Talks about adult image galleries,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Experience Thread,People discussing adult experiences,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Meme Discussion,Talks about adult-themed memes,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW App Info,Information about an adult content app,NSFW,Unsafe,Medium,Neutral,Tech,Medium
+Adult Clip List,Lists available adult clip categories,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Roleplay Mention,Talks about adult roleplay chats,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Gallery Leak,Mentions leaked adult galleries online,NSFW,Unsafe,High,Negative,Crime,High
+Adult Video Review,Reviews adult-themed videos,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Resource Mention,Points to adult content sources,NSFW,Unsafe,High,Negative,Adult,Medium
+NSFW Content List,List of explicit content items,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Trend Alert,Adult content trending on social media,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Filter Tip,Mentions bypassing adult filters,NSFW,Unsafe,High,Negative,Tech,Medium
+Nudity Debate Thread,Thread discussing nudity online,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Chat Invite,Mentions invite to adult chat,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Photo Talk,Discusses explicit photos online,NSFW,Unsafe,High,Negative,Adult,High
+NSFW Page Review,Review of explicit content pages,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Topic Discussion,Discusses adult topics openly,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Clip Search,Searching for adult-only clips,NSFW,Unsafe,High,Negative,Adult,Medium
+NSFW Category Guide,Mentions adult categories in websites,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Forum Review,Review of 18+ forums,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Warning Message,Mentions heavy explicit content ahead,NSFW,Unsafe,High,Negative,Adult,Medium
+NSFW Thread Discussion,Mentions explicit discussions,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Photo Sharing,Users exchanging adult images,NSFW,Unsafe,High,Negative,Crime,High
+Explicit Access Tips,User explaining adult access steps,NSFW,Unsafe,High,Negative,Tech,High
+18+ Group Mention,Mentions 18+ groups online,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Forum Entry,Talks about entering adult forums,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Clip Highlights,Highlights of adult videos,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Chat Group,Mentions adult chat channels,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Warning Post,Warning about explicit material,NSFW,Unsafe,High,Negative,Adult,Medium
+Nudity Topic Talk,Discusses online nudity issues,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Website Tips,Tips for adult site usage,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Photo Info,Details about adult photos shared,NSFW,Unsafe,High,Negative,Adult,High
+NSFW Data Thread,Thread discussing adult leaks,NSFW,Unsafe,High,Negative,Crime,High
+Adult Profile Mention,Mentions profiles with adult content,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Clip Guide,Guide to adult clip sections,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Search Guide,User explains how to search adult content,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Topic Thread,Mentions adult topics trending,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Content Query,Query about explicit content,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Forum Talk,Users discussing adult forums,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Nude Content Mention,Mentions nude content online,NSFW,Unsafe,High,Negative,Adult,High
+Morning Stretch Routine,Start your day with simple stretching,SFW,Safe,Low,Positive,Fitness,Medium
+AI Trend Update,New AI bot becomes industry standard,SFW,Safe,Low,Neutral,Tech,High
+Healthy Office Lunch,Easy lunch ideas for office workers,SFW,Safe,Low,Positive,Food,Low
+City Exploration,Vlog exploring the old city streets,SFW,Safe,Low,Positive,Travel,Medium
+Study Efficiency,How to study smarter not harder,SFW,Safe,Low,Positive,Education,Medium
+Plant Light Guide,Best light conditions for indoor plants,SFW,Safe,Low,Positive,Gardening,Low
+Sports Highlights,Top 5 plays of the football week,SFW,Safe,Low,Positive,Sports,High
+Mind Relax Techniques,Relax your mind in 5 minutes,SFW,Safe,Low,Positive,Health,Low
+Art Composition Tips,How to balance objects in a drawing,SFW,Safe,Low,Positive,Art,Low
+Coding Efficiency,How to write clean and readable code,SFW,Safe,Low,Neutral,Tech,Medium
+Finance Tips,How to manage salaries efficiently,SFW,Safe,Low,Positive,Finance,Medium
+Travel Essentials,Things you need before international travel,SFW,Safe,Low,Positive,Travel,Medium
+Kids Reading Tips,How to help kids develop reading habits,SFW,Safe,Low,Positive,Education,Low
+Nature Capture,A lake surrounded by green mountains,SFW,Safe,Low,Positive,Nature,Low
+Hydration Reminder,Drink water every morning for health,SFW,Safe,Low,Positive,Health,Low
+Business Strategy,How to build trust with customers,SFW,Safe,Low,Positive,Business,Medium
+Cooking Demo,Simple pasta recipe tutorial,SFW,Safe,Low,Positive,Food,Low
+Gaming Tips,How to avoid lag in online games,SFW,Safe,Low,Positive,Gaming,Medium
+Study Notes,How to create effective digital notes,SFW,Safe,Low,Positive,Education,Medium
+Full Body Workout,Beginner-friendly full body routine,SFW,Safe,Low,Positive,Fitness,Medium
+Music Theory,How melody interacts with rhythm,SFW,Safe,Low,Positive,Music,Low
+Career Advice,How to grow professionally at workplace,SFW,Safe,Low,Positive,Career,Medium
+Street Portrait Tips,Take better street portraits,SFW,Safe,Low,Positive,Art,Low
+Daily Affirmations,You are stronger than you think,SFW,Safe,Low,Positive,Motivation,Medium
+Nature Moments,River flowing through forest,SFW,Safe,Low,Positive,Nature,Low
+Tech Basics,What is cloud computing?,SFW,Safe,Low,Neutral,Tech,Low
+Healthy Eating Tips,Choose whole foods over processed,SFW,Safe,Low,Positive,Food,Low
+Science Trivia,Daily science facts for students,SFW,Safe,Low,Neutral,Science,Medium
+Movie Thoughts,Thoughts on a new drama film,SFW,Safe,Low,Neutral,Entertainment,Medium
+Travel Blog,Exploring mountain viewpoints,SFW,Safe,Low,Positive,Travel,Medium
+Exam Strategy,Plan revisions wisely,SFW,Safe,Low,Positive,Education,Medium
+Sports Training,Improve your jump speed,SFW,Safe,Low,Positive,Sports,Medium
+Calming Meditation,How to meditate for 3 minutes,SFW,Safe,Low,Positive,Health,Low
+Coding Tips,Why comments are important in functions,SFW,Safe,Low,Neutral,Tech,Low
+Parenting Tips,How to build confidence in kids,SFW,Safe,Low,Positive,Parenting,Low
+History Knowledge,How ancient kings ruled their lands,SFW,Safe,Low,Neutral,Education,Low
+Healthy Recipes,High-protein salad bowl recipe,SFW,Safe,Low,Positive,Food,Medium
+Art Challenge Idea,Try drawing objects around you,SFW,Safe,Low,Positive,Art,Low
+Nature Walk,Exploring a coastal trail,SFW,Safe,Low,Positive,Nature,Low
+Music Breakdown,Understanding bass lines,SFW,Safe,Low,Positive,Music,Low
+Study Motivation,Consistency is the key,SFW,Safe,Low,Positive,Education,Medium
+Healthy Routine Tips,Create a simple morning routine,SFW,Safe,Low,Positive,Health,Low
+Laptop Comparison,Comparing two midrange laptops,SFW,Safe,Low,Neutral,Tech,Medium
+Snack Guide,Healthy snacks for students,SFW,Safe,Low,Positive,Food,Low
+Career Improvement,Learn new skills every month,SFW,Safe,Low,Positive,Career,Medium
+Motivational Story,How persistence changed his life,SFW,Safe,Low,Positive,Motivation,Medium
+Pasta Recipe,Quick pasta with vegetables,SFW,Safe,Low,Positive,Food,Low
+Office Efficiency,Stay focused while working,SFW,Safe,Low,Positive,Business,Medium
+Classic Film Review,Reviewing an old blockbuster,SFW,Safe,Low,Neutral,Entertainment,Low
+Study Hacks,Use active recall method,SFW,Safe,Low,Positive,Education,Medium
+Digital Art Lesson,How to color digitally,SFW,Safe,Low,Positive,Art,Low
+Health Tips,How to reduce stress naturally,SFW,Safe,Low,Positive,Health,Low
+Travel Moments,Watching sunset from a cliff,SFW,Safe,Low,Positive,Travel,Medium
+Coding Exercises,Beginner exercises to practice logic,SFW,Safe,Low,Neutral,Tech,Low
+Sports Drills,Improve ball control in basketball,SFW,Safe,Low,Positive,Sports,Medium
+Gardening Methods,How to grow plants faster,SFW,Safe,Low,Positive,Gardening,Low
+Nature Sight,Trees waving in wind,SFW,Safe,Low,Positive,Nature,Low
+Cleaning Hacks,Organize your room in 10 minutes,SFW,Safe,Low,Positive,DIY,Low
+Bird Watching,Spotting rare birds in forest,SFW,Safe,Low,Positive,Nature,Low
+Healthy Food Bowl,Prepare a salad bowl,SFW,Safe,Low,Positive,Food,Low
+Laptop Setup Tips,Optimize your laptop for speed,SFW,Safe,Low,Neutral,Tech,Medium
+Daily Learning Tip,Learn one new concept everyday,SFW,Safe,Low,Positive,Education,Low
+Nature Video,Clouds floating over hills,SFW,Safe,Low,Positive,Nature,Low
+Fitness Progress,Small progress matters,SFW,Safe,Low,Positive,Fitness,Medium
+Science News,Researchers create new polymer,SFW,Safe,Low,Neutral,Science,Medium
+Productivity Tricks,Remove clutter to focus better,SFW,Safe,Low,Positive,Business,Medium
+Travel Guide,Best winter places to visit,SFW,Safe,Low,Positive,Travel,Medium
+Coding Tutorial,Solve basic algorithm tasks,SFW,Safe,Low,Neutral,Tech,Low
+Sports Fun,Why sports keep you active,SFW,Safe,Low,Positive,Sports,Low
+NSFW Warning Post,Adult-only warning shared ahead,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Clip Mention,User mentions adult clip pages,NSFW,Unsafe,High,Negative,Adult,High
+Adult Chat Mention,Talks about adult messaging rooms,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Board Guide,Mentions 18+ boards online,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Reference,Refers to adult content availability,NSFW,Unsafe,High,Negative,Adult,Medium
+NSFW Thread Alert,User warns about graphic adult topics,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Subscription Info,Discusses adult content pricing,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Forum Link,Mentions link to adult forum,NSFW,Unsafe,High,Negative,Adult,High
+Nude Picture Talk,Talks about leaked nude images,NSFW,Unsafe,High,Negative,Adult,High
+Adult Theme Mention,Talks about adult-themed pages,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Meme Thread,User shares adult meme discussion,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Data Leak,Claims adult account data leaked,NSFW,Unsafe,High,Negative,Crime,High
+Adult Clip Sharing,Mentions sharing of adult clips,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Search Tips,User asking where adult content is found,NSFW,Unsafe,High,Negative,Adult,Medium
+Nudity Debate,Talking about online nudity rules,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Video List,Lists various adult themes,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Art Topic,Discusses adult-inspired art,NSFW,Unsafe,Medium,Neutral,Art,Medium
+NSFW Forum Review,Reviews 18+ forum layout,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Roleplay Chat,Talks about adult roleplay communities,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Site Mention,Refers to trending adult platforms,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Trend Topic,Adult topics trending online,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Discussion Thread,People discussing adult ideas,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Clip Page,Talks about clip-based adult sites,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Nude Gallery Mention,Talks about adult image galleries,NSFW,Unsafe,High,Negative,Adult,High
+NSFW Warning Tag,Warns others of adult topics ahead,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Meme Guide,User explains adult humor memes,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Review Thread,Mentions reviewing explicit content,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Category List,Various adult categories listed,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Fan Forum,Talks about adult fan communities,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Photo Note,Mentions adult-only photos posted,NSFW,Unsafe,High,Negative,Adult,High
+NSFW Page Link,Mentions incoming link to adult content,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Stream Info,Mentions adult streaming categories,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Folder Leak,Claims adult folder leaked,NSFW,Unsafe,High,Negative,Crime,High
+NSFW App Review,Reviews adult content apps,NSFW,Unsafe,Medium,Neutral,Tech,Medium
+Adult Forum Index,User lists adult community forums,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Topic Index,Mentions index of adult topics,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Clip Info,Claims adult clip links trending,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Link Share,Users share adult-only links,NSFW,Unsafe,High,Negative,Crime,High
+Explicit Chat Invite,Mentions adult chat invite link,NSFW,Unsafe,High,Negative,Adult,Medium
+NSFW Data Thread,Users discussing adult data leaks,NSFW,Unsafe,High,Negative,Crime,High
+Adult Profile Talk,Talks about explicit profiles online,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Topic Query,User asks about adult topic info,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Material Mention,Discussing adult materials openly,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Clip Review,Review of adult-themed video scenes,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Access Guide,Explains how adult access works,NSFW,Unsafe,High,Negative,Tech,High
+Morning Jog Guide,Jogging improves stamina quickly,SFW,Safe,Low,Positive,Fitness,Medium
+AI Feature Update,New AI tool improves workflow,SFW,Safe,Low,Neutral,Tech,High
+Healthy Smoothie,Make a banana oats smoothie,SFW,Safe,Low,Positive,Food,Low
+City Night Vlog,Exploring the nightlife in Bangkok,SFW,Safe,Low,Positive,Travel,Medium
+Study Productivity,How to avoid distraction while studying,SFW,Safe,Low,Positive,Education,Medium
+Plant Watering Tips,How often should you water your indoor plants?,SFW,Safe,Low,Positive,Gardening,Low
+Sports Highlights,Top 10 shots from yesterday’s match,SFW,Safe,Low,Positive,Sports,High
+Stress Relief,Breath for 5 minutes to relax instantly,SFW,Safe,Low,Positive,Health,Low
+Drawing Basics,Learn perspective in drawing,SFW,Safe,Low,Positive,Art,Low
+Code Learning,Why Python is easiest to start,SFW,Safe,Low,Neutral,Tech,Low
+Money Management,Split savings into three funds,SFW,Safe,Low,Positive,Finance,Medium
+Travel Hacks,Best packing techniques for light travel,SFW,Safe,Low,Positive,Travel,Medium
+Kids Reading Habit,How to make kids love reading,SFW,Safe,Low,Positive,Education,Low
+Nature Peace,Calm river flowing in forest,SFW,Safe,Low,Positive,Nature,Low
+Healthy Morning,Drink lemon water for health,SFW,Safe,Low,Positive,Health,Low
+Business Growth,Why branding matters for small businesses,SFW,Safe,Low,Positive,Business,Medium
+Easy Cooking,Quick roasted vegetable recipe,SFW,Safe,Low,Positive,Food,Low
+Gaming Tips,Increase FPS with simple settings,SFW,Safe,Low,Positive,Gaming,Medium
+Study Routine,How to complete syllabus before time,SFW,Safe,Low,Positive,Education,Medium
+Beginner Workout,10-minute bodyweight workout,SFW,Safe,Low,Positive,Fitness,Medium
+Music Creativity,Why simple melodies become hits,SFW,Safe,Low,Positive,Music,Low
+Career Advice,Learn one new skill every week,SFW,Safe,Low,Positive,Career,Medium
+Photography Ideas,Try shooting shadows for art,SFW,Safe,Low,Positive,Art,Low
+Motivation Boost,Consistency grows confidence,SFW,Safe,Low,Positive,Motivation,Medium
+Nature Capture,Mountains covered with clouds,SFW,Safe,Low,Positive,Nature,Low
+Tech Guide,What is an API and how does it work?,SFW,Safe,Low,Neutral,Tech,Low
+Healthy Diet,Replace sugar with fruits,SFW,Safe,Low,Positive,Food,Low
+Science Info,Why does sound travel faster in water?,SFW,Safe,Low,Neutral,Science,Medium
+Movie Insight,Short review of a sci-fi film,SFW,Safe,Low,Neutral,Entertainment,Medium
+Travel Story,Traveling through snowy mountains,SFW,Safe,Low,Positive,Travel,Medium
+Exam Tricks,Highlight keywords for revision,SFW,Safe,Low,Positive,Education,Medium
+Sports Knowledge,How athletes improve stamina,SFW,Safe,Low,Positive,Sports,Medium
+Meditation Routine,5-minute breathing session,SFW,Safe,Low,Positive,Health,Low
+Coding Fix,How to fix common errors,SFW,Safe,Low,Neutral,Tech,Low
+Parenting Tips,Make learning fun for children,SFW,Safe,Low,Positive,Parenting,Low
+History Concepts,Why ancient people built monuments,SFW,Safe,Low,Neutral,Education,Low
+Food Prep,Meal prepping under 20 minutes,SFW,Safe,Low,Positive,Food,Low
+Art Skill,How to draw hair realistically,SFW,Safe,Low,Positive,Art,Low
+Nature Moment,Wind blowing through tall grass,SFW,Safe,Low,Positive,Nature,Low
+Music Lesson,How to find the right tempo,SFW,Safe,Low,Positive,Music,Low
+Study Better,Rewrite notes in your words,SFW,Safe,Low,Positive,Education,Medium
+Fitness Insight,Stretching fixes muscle tightness,SFW,Safe,Low,Positive,Fitness,Medium
+Tech Review,Review of a new budget smartphone,SFW,Safe,Low,Neutral,Tech,Medium
+Healthy Snacks,Replace chips with nuts,SFW,Safe,Low,Positive,Food,Low
+Career Strategy,Build a strong LinkedIn profile,SFW,Safe,Low,Positive,Career,Medium
+Motivational Quote,If not now, then when?,SFW,Safe,Low,Positive,Motivation,Medium
+Cooking Guide,Make creamy tomato soup,SFW,Safe,Low,Positive,Food,Low
+Work Tips,Finish small tasks first,SFW,Safe,Low,Positive,Business,Medium
+Classic Movie Review,Review of a timeless classic,SFW,Safe,Low,Neutral,Entertainment,Low
+
+NSFW Warning,Mentions adult-only warning ahead,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Clip Info,User mentions non-censored clips,NSFW,Unsafe,High,Negative,Adult,High
+Adult Forum Mention,Mentions joining 18+ forums,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Nude Image Mention,Talks about leaked nude photos,NSFW,Unsafe,High,Negative,Adult,High
+Adult Site List,Lists adult platforms available,NSFW,Unsafe,High,Negative,Adult,High
+NSFW Topic Thread,Discusses adult-related subjects,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Story Post,Adult-themed story being shared,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Category Info,Discusses adult content themes,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Nudity Discussion,Talking about online nudity issues,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Meme Post,Sharing adult humor memes,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Subscription Info,Explains adult content prices,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Alert Post,Warning of adult content ahead,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Clip Leak,Mentions leaked adult video files,NSFW,Unsafe,High,Negative,Crime,High
+Adult Access Tips,Asks how to access 18+ material,NSFW,Unsafe,High,Negative,Adult,Medium
+NSFW Forum Tips,Guide for using adult forums,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Image Leak,Claims explicit photos leaked online,NSFW,Unsafe,High,Negative,Adult,High
+Adult Fan Group,Mentions adult-themed fan groups,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Nudity Thread,Users debating nudity online,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Clip Search,Searching for adult-only clips,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Page Talk,Talking about adult-only pages,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Story Thread,Users posting adult stories,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Video Info,Discusses themes of adult videos,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Board Post,Reviewing an adult board,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Chat Info,Mentions adult chatrooms online,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Gallery Mention,Mentions adult photo galleries,NSFW,Unsafe,High,Negative,Adult,High
+NSFW Category Thread,Mentions explicit content categories,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Clip Archive,Discusses adult video archives,NSFW,Unsafe,High,Negative,Adult,High
+Nudity Topic Post,Talking about nude imagery online,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Data Leak,Claims adult content was leaked,NSFW,Unsafe,High,Negative,Crime,High
+Adult Review Thread,Reviews adult content website,SFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Clip Talk,Users discussing explicit clips,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Trend Alert,Adult content trending online,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Nudity Mention Post,Discusses nudity in digital media,NSFW,Unsafe,High,Negative,Adult,High
+Adult Group Post,Mentions 18+ group links,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Roleplay Chat,Discussing adult roleplay groups,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Topic Share,Sharing explicit discussion threads,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Photo Reference,Talking about adult pictures online,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Discussion Thread,Thread discussing adult material,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Search Post,User asks where explicit topics are found,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Video Review,Explaining adult video categories,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Page Review,Review of adult content pages,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Nudity Issue Thread,Talking about nudity rules,SFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Alert Message,Warning about adult discussions,NSFW,Unsafe,High,Negative,Adult,Medium
+Morning Yoga Tips,Start your day with easy yoga poses,SFW,Safe,Low,Positive,Fitness,Medium
+AI Tech News,New AI update makes apps faster,SFW,Safe,Low,Neutral,Tech,High
+Healthy Breakfast,High-fiber breakfast ideas,SFW,Safe,Low,Positive,Food,Low
+City Market Tour,Exploring a local street market,SFW,Safe,Low,Positive,Travel,Medium
+Study Plan Guide,Create a weekly revision schedule,SFW,Safe,Low,Positive,Education,Medium
+Plant Growth Tips,How to boost plant growth naturally,SFW,Safe,Low,Positive,Gardening,Low
+Sports Highlights,Top goals from yesterday’s match,SFW,Safe,Low,Positive,Sports,High
+Meditation Basics,5-minute breathing exercise,SFW,Safe,Low,Positive,Health,Low
+Art Learning,Practice drawing circles for control,SFW,Safe,Low,Positive,Art,Low
+Coding Insight,Why indentation matters in Python,SFW,Safe,Low,Neutral,Tech,Low
+Finance Hacks,Track expenses weekly for savings,SFW,Safe,Low,Positive,Finance,Medium
+Travel Tips,Best time to visit hill stations,SFW,Safe,Low,Positive,Travel,Medium
+Kids Learning Tips,Make study time fun for children,SFW,Safe,Low,Positive,Education,Low
+Nature Clip,Sunset reflecting on calm ocean,SFW,Safe,Low,Positive,Nature,Low
+Healthy Routine,Drink water after waking up,SFW,Safe,Low,Positive,Health,Low
+Business Growth Tips,Why branding is important,SFW,Safe,Low,Positive,Business,Medium
+Quick Cooking,Simple veggie stir-fry recipe,SFW,Safe,Low,Positive,Food,Low
+Gaming Tricks,How to decrease input lag,SFW,Safe,Low,Positive,Gaming,Medium
+Note-Taking Tips,Use flowcharts for better understanding,SFW,Safe,Low,Positive,Education,Medium
+Home Workout,Beginner push-up progression,SFW,Safe,Low,Positive,Fitness,Medium
+Music Guide,What is rhythm in music?,SFW,Safe,Low,Positive,Music,Low
+Career Tips,Build soft skills consistently,SFW,Safe,Low,Positive,Career,Medium
+Photography Guide,Learn natural lighting basics,SFW,Safe,Low,Positive,Art,Low
+Motivational Thought,Small actions create big results,SFW,Safe,Low,Positive,Motivation,Medium
+Wildlife Clip,Birds flying across blue sky,SFW,Safe,Low,Positive,Nature,Low
+Tech Concept,What is machine learning?,SFW,Safe,Low,Neutral,Tech,Low
+Healthy Eating,Add fruits to your daily meals,SFW,Safe,Low,Positive,Food,Low
+Science Fact,Why does lightning strike?,SFW,Safe,Low,Neutral,Science,Medium
+Movie Insight,Thoughts on a trending comedy film,SFW,Safe,Low,Neutral,Entertainment,Medium
+Travel Experience,Backpacking a mountain route,SFW,Safe,Low,Positive,Travel,Medium
+Study Focus Tips,Use timers for focused sessions,SFW,Safe,Low,Positive,Education,Medium
+Sports Knowledge,Why warm-up is essential,SFW,Safe,Low,Positive,Sports,Medium
+Yoga Practice,Simple stretches for lower back,SFW,Safe,Low,Positive,Health,Low
+Coding Guide,Avoid common beginner mistakes,SFW,Safe,Low,Neutral,Tech,Low
+Parenting Help,Reading books improves creativity,SFW,Safe,Low,Positive,Parenting,Low
+History Facts,How ancient temples were built,SFW,Safe,Low,Neutral,Education,Low
+Food Preparation,Easy high-protein sandwich,SFW,Safe,Low,Positive,Food,Low
+Art Creativity,Practice sketching hands,SFW,Safe,Low,Positive,Art,Low
+Nature Scene,Green trees dancing in wind,SFW,Safe,Low,Positive,Nature,Low
+Music Lesson,Learn timing using claps,SFW,Safe,Low,Positive,Music,Low
+Study Methods,Rewrite notes in shorter form,SFW,Safe,Low,Positive,Education,Medium
+Fitness Move,Try slow lunges for strength,SFW,Safe,Low,Positive,Fitness,Medium
+Laptop Guide,Choose the best laptop under budget,SFW,Safe,Low,Neutral,Tech,Medium
+Healthy Snacks,Eat almonds instead of biscuits,SFW,Safe,Low,Positive,Food,Low
+Career Plan,Make monthly learning goals,SFW,Safe,Low,Positive,Career,Medium
+Motivation Line,Your effort will pay off,SFW,Safe,Low,Positive,Motivation,Medium
+Cooking Idea,Healthy oatmeal bowl,SFW,Safe,Low,Positive,Food,Low
+Office Tips,Keep your desk organized,SFW,Safe,Low,Positive,Business,Medium
+Movie Review,Review of a historical movie,SFW,Safe,Low,Neutral,Entertainment,Low
+
+NSFW Warning Post,Adult-only warning mentioned,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Clip Mention,User talks about adult clips online,NSFW,Unsafe,High,Negative,Adult,High
+Adult Forum Talk,Mentions joining 18+ communities,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Nude Photo Mention,Talks about leaked private pictures,NSFW,Unsafe,High,Negative,Adult,High
+Adult Site Suggestion,Lists common adult websites,NSFW,Unsafe,High,Negative,Adult,High
+NSFW Story Thread,Adult-themed story shared,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Talk,Discussing adult-related posts,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Category Discussion,Discusses different adult content types,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Nudity Debate,Mentions online nudity arguments,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Meme Reply,User shares adult humor meme,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Subscription Post,Mentions subscription cost of adult sites,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Alert Mention,Warning of explicit content,SFW,Unsafe,High,Negative,Adult,Medium
+Explicit Clip Leak,Mentions leaked adult videos,NSFW,Unsafe,High,Negative,Crime,High
+Adult Access Query,User asks how to reach adult pages,NSFW,Unsafe,High,Negative,Adult,Medium
+NSFW Forum Guide,Guide explaining adult discussion forums,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Image Leak,Rumor about leaked explicit images,NSFW,Unsafe,High,Negative,Adult,High
+Adult Fan Group,Mentions adult-theme fan community,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Nudity Thread Discussion,Talking about nudity rules online,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Clip Search,Searching for adult clip collections,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Page Mention,Talking about explicit pages trending,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Story Club,Users sharing adult story groups,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Video Breakdown,Discusses adult video genres,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Board Overview,Review of an adult board,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Chat Room Mention,Mentions adult chatroom discussions,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Gallery Info,Mentions adult image gallery links,NSFW,Unsafe,High,Negative,Adult,High
+NSFW Category Overview,Mentions explicit content categories,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Clip Archive,Talking about adult clip archives,NSFW,Unsafe,High,Negative,Adult,High
+Nudity Post,Users discussing nudity perception,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Data Leak Report,Mentions leaked adult content,NSFW,Unsafe,High,Negative,Crime,High
+Adult Review Comment,Reviewing adult content site,SFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Clip Thread,Discussing trending explicit clips,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Trend Talk,Adult content trending online,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Nudity Mention,Talking about nude images online,NSFW,Unsafe,High,Negative,Adult,High
+Adult Group Share,Mentions sharing adult group links,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Roleplay Post,Adult roleplay topics discussed,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Topic Share,Users sharing adult-related threads,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Media Mention,Talks about adult media content,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Chat Thread,Thread discussing adult chats,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Search Discussion,User searching for explicit pages,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Video Review,Review of adult video category,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Page Summary,Summary of adult pages,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Warning Message,Warning of explicit material,NSFW,Unsafe,High,Negative,Adult,Medium
+Morning Stretching Guide,Light stretching to reduce stiffness,SFW,Safe,Low,Positive,Fitness,Medium
+AI Coding Helper,AI tool helps write cleaner code,SFW,Safe,Low,Neutral,Tech,High
+Healthy Diet Plan,How to balance carbs and proteins,SFW,Safe,Low,Positive,Food,Low
+Travel Diary,Exploring a peaceful village in Himachal,SFW,Safe,Low,Positive,Travel,Medium
+Study Notes Method,Why handwritten notes boost memory,SFW,Safe,Low,Positive,Education,Medium
+Plant Care Guide,How to revive dying plants,SFW,Safe,Low,Positive,Gardening,Low
+Sports Highlight Review,Top runs scored in cricket match,SFW,Safe,Low,Positive,Sports,High
+Mind Relax Tips,Use simple breathing to reduce stress,SFW,Safe,Low,Positive,Health,Low
+Art Shading Trick,Blend with tissue for smooth shading,SFW,Safe,Low,Positive,Art,Low
+Coding Faster,Use snippets to speed up coding,SFW,Safe,Low,Neutral,Tech,Low
+Finance Basics,Save before spending,SFW,Safe,Low,Positive,Finance,Medium
+Travel Essentials,Checklist before long trips,SFW,Safe,Low,Positive,Travel,Medium
+Kids Learning Fun,Use games to teach maths,SFW,Safe,Low,Positive,Education,Low
+Nature Recording,Rain hitting leaves sound clip,SFW,Safe,Low,Positive,Nature,Low
+Healthy Hydration Tip,Drink water before meals,SFW,Safe,Low,Positive,Health,Low
+Business Opportunity,Why networking grows your business,SFW,Safe,Low,Positive,Business,Medium
+Quick Cooking Trick,Fry spices on low flame for taste,SFW,Safe,Low,Positive,Food,Low
+Gaming Adjustment,Best sensitivity settings for shooters,SFW,Safe,Low,Positive,Gaming,Medium
+Study Progress Method,Use weekly summaries,SFW,Safe,Low,Positive,Education,Medium
+Fitness Warmup,5-minute warmup for beginners,SFW,Safe,Low,Positive,Fitness,Medium
+Music Rhythm Guide,Practice tapping beats,SFW,Safe,Low,Positive,Music,Low
+Career Growth Strategy,Learn communication skills,SFW,Safe,Low,Positive,Career,Medium
+Photography Angle Tips,Experiment with lower angles,SFW,Safe,Low,Positive,Art,Low
+Motivation Reminder,Work beats talent every time,SFW,Safe,Low,Positive,Motivation,Medium
+Nature Vlog,Walking through a quiet meadow,SFW,Safe,Low,Positive,Nature,Low
+Tech Explainer,What are data structures?,SFW,Safe,Low,Neutral,Tech,Low
+Healthy Meal,Make a fibre-rich lunch,SFW,Safe,Low,Positive,Food,Low
+Science Trivia,What causes seasons on Earth?,SFW,Safe,Low,Neutral,Science,Medium
+Movie Reaction,Thoughts on a dramatic thriller,SFW,Safe,Low,Neutral,Entertainment,Medium
+Travel Tips Budget,How to travel cheap in Asia,SFW,Safe,Low,Positive,Travel,Medium
+Study Guide,Divide chapters into smaller tasks,SFW,Safe,Low,Positive,Education,Medium
+Sports Guide,How to improve accuracy,SFW,Safe,Low,Positive,Sports,Medium
+Healthy Breathing,Try slow deep breaths,SFW,Safe,Low,Positive,Health,Low
+Coding Trick,Use version control early,SFW,Safe,Low,Neutral,Tech,Low
+Parenting Activity,Do creative drawing with kids,SFW,Safe,Low,Positive,Parenting,Low
+History Concept,How alphabets evolved,SFW,Safe,Low,Neutral,Education,Low
+Snack Recipe,Make peanut-butter toast,SFW,Safe,Low,Positive,Food,Low
+Art Skill Practice,Sketch shapes daily,SFW,Safe,Low,Positive,Art,Low
+Nature Beauty,Clouds moving over hills,SFW,Safe,Low,Positive,Nature,Low
+Music Practice,Tap foot to match tempo,SFW,Safe,Low,Positive,Music,Low
+Study Hack,Use digital flashcards,SFW,Safe,Low,Positive,Education,Medium
+Fitness Tip,Add squats for core strength,SFW,Safe,Low,Positive,Fitness,Medium
+Tech Review,Hands-on review of tablet,SFW,Safe,Low,Neutral,Tech,Medium
+Healthy Options,Replace fried food with salad,SFW,Safe,Low,Positive,Food,Low
+Career Building,Attend webinars every month,SFW,Safe,Low,Positive,Career,Medium
+Motivation Thought,Start where you are,SFW,Safe,Low,Positive,Motivation,Medium
+Food Preparation,Cook lentils perfectly,SFW,Safe,Low,Positive,Food,Low
+Work Productivity,Use to-do lists daily,SFW,Safe,Low,Positive,Business,Medium
+Entertainment Review,Quick review of comedy show,SFW,Safe,Low,Neutral,Entertainment,Low
+
+NSFW Warning,Mentions adult-only warning posted,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Clip Talk,Talks about adult clips trending,NSFW,Unsafe,High,Negative,Adult,High
+Adult Community Mention,Mentions joining adult chat groups,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Nude Image Leak,Claims leaked intimate images online,NSFW,Unsafe,High,Negative,Adult,High
+Adult Platform List,Lists adult websites by category,NSFW,Unsafe,High,Negative,Adult,High
+NSFW Content Thread,Users posting adult topics,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Story Talk,People sharing adult-themed stories,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Genre Breakdown,Discussing adult categories,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Nudity Debate Online,Debate about online nudity rules,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Meme Posting,Sharing adult meme jokes,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Subscription Talk,Talks about paid 18+ content prices,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Alert Thread,Warning about explicit topics,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Video Leak,Claims adult videos leaked online,NSFW,Unsafe,High,Negative,Crime,High
+Adult Access Guide,Asking how to access adult materials,NSFW,Unsafe,High,Negative,Adult,Medium
+NSFW Forum Walkthrough,Explaining how adult forums work,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Photo Leak Rumor,Rumors of leaked explicit photos,NSFW,Unsafe,High,Negative,Adult,High
+Adult Fan Page,Mentions adult-themed fan profiles,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Nudity Discussion Thread,Users discussing nudity,SFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Clip Search,Searching for adult video lists,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Page Mention,Tells about trending adult pages,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Story Forum,Users exchanging adult stories,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Video Review,Reviewing adult video styles,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Board Entry,Review of adult-only board,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Adult Chat Suggestion,Mentions adult chat links,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Gallery Talk,Talking about adult image galleries,NSFW,Unsafe,High,Negative,Adult,High
+NSFW Content List,List of adult contents discussed,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Adult Archive Mention,Talks about adult video archive,NSFW,Unsafe,High,Negative,Adult,High
+Nudity Policy Post,Mentions online nudity guidelines,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Data Breach,Mentions adult account leak,NSFW,Unsafe,High,Negative,Crime,High
+Adult Review Comment,User reviewing an adult site,SFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Clip Thread,Mentions explicit clips posted,NSFW,Unsafe,High,Negative,Adult,Medium
+Explicit Trend Topic,Adult content trending,SFW,Unsafe,Medium,Negative,Adult,Medium
+Nudity Mention Thread,Post about nude pictures,NSFW,Unsafe,High,Negative,Adult,High
+Adult Group Forum,Users sharing adult community links,NSFW,Unsafe,Medium,Negative,Adult,Medium
+Explicit Roleplay Thread,Discussing adult roleplay ideas,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Topic Exchange,Sharing adult discussion threads,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Image Discussion,Talking about adult images online,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Chat Topic,Users talking about adult chatrooms,NSFW,Unsafe,Medium,Negative,Adult,Medium
+NSFW Query,Asking where adult pages are located,NSFW,Unsafe,High,Negative,Adult,Medium
+Adult Video Commentary,Mentions adult video highlights,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+Explicit Page Insights,Talking about adult-themed pages,NSFW,Unsafe,Medium,Neutral,Adult,Medium
+NSFW Warning Message,Mentions explicit content warning,NSFW,Unsafe,High,Negative,Adult,Medium
+
+
+
+
+
+
