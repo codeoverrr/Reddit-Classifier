@@ -60,7 +60,7 @@ Illicit Content Post,User discussing access to pornographic sites,NSFW,Unsafe,Hi
 NSFW Subreddit Link,User links to adult subreddit content,NSFW,Unsafe,High,Negative,Adult,High
 Adult Photos Leak,Mentions leaked celebrity adult images,NSFW,Unsafe,High,Negative,Adult,High
 Nudity Discussion,Talking about non-censored adult photos,NSFW,Unsafe,High,Negative,Adult,Medium
-Explicit Clip Warning,Describes explicit adult scenes,but non-graphic,NSFW,Unsafe,High,Negative,Adult,High
+Explicit Clip Warning,Describes explicit adult scenes but non-graphic,NSFW,Unsafe,High,Negative,Adult,High
 Adult Content Rumor,Rumor about leaked 18+ content,NSFW,Unsafe,Medium,Negative,Adult,Medium
 NSFW Story,Mentions adult experience in text form,NSFW,Unsafe,Medium,Negative,Adult,Medium
 Uncensored Content,Talks about uncensored adult pictures,NSFW,Unsafe,High,Negative,Adult,High
