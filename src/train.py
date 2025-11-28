@@ -58,8 +58,8 @@ except Exception as e:
 # ==========================================
 print("⏳ Loading and processing data...")
 
-if os.path.exists("data/raw_posts.csv"):
-    df = pd.read_csv("data/raw_posts.csv", on_bad_lines='skip')
+if os.path.exists("/Users/priyanshu/Downloads/Reddit-content-classifier-main 2/data/raw_posts.csv"):
+    df = pd.read_csv("/Users/priyanshu/Downloads/Reddit-content-classifier-main 2/data/raw_posts.csv", on_bad_lines='skip')
 else:
     # Fallback dummy data
     print("⚠️ Data file not found, generating DUMMY data.")
